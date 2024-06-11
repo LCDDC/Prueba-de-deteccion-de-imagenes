@@ -1,0 +1,41 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    position: top;
+    color: rgb(0, 0, 0, 0.631);
+    margin: 0px;
+    width: 100%;
+    background-color: rgba(36, 233, 125, 0.585);
+    line-height: 3;
+    text-align: center;
+    border-style: double;
+    border-width: 7px;
+    border-color: seagreen;
+    letter-spacing: 10px;
+    height: 70px;
+}
+#status{
+    font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0, 0.631);
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(36, 233, 125, 0.585);
+    line-height: 3;
+    text-align: center;
+    border-style: double;
+    border-width: 7px;
+    border-color: seagreen;
+    letter-spacing: 10px;
+    height: 70px;
+    }
+
